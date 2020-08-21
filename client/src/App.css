@@ -1,0 +1,15 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.leads{
+  background-color: blueviolet;
+  min-height: 150px;
+  margin: auto;
+  padding-top: 30px;
+  font-size: 30px;
+  color: yellowgreen;
+}

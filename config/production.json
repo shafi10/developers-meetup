@@ -1,0 +1,4 @@
+{
+    "mongoURI":"mongodb://shafi:shafi100@ds035177.mlab.com:35177/poll",
+    "jwtSecret":"mysecrettoken"
+}
